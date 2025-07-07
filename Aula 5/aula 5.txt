@@ -1,0 +1,3 @@
+AWS Certified Cloud Pratictioner.
+AWS Certified IA Pratictioner.
+AWS Certified Solutions Architect
